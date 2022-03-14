@@ -9,3 +9,6 @@ In this project, I analyzed demographics data for customers of a mail-order sale
 - Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).
 - Udacity_MAILOUT_052018_TRAIN.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns).
 - Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
+
+# Result
+The main findings of the code can be found at the post available here at [Medium](https://medium.com/@duante1231/identify-customer-segmentation-for-arvato-financial-services-2cca2c478704).
